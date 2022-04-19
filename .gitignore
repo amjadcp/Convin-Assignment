@@ -1,4 +1,4 @@
-secret_folder/client_secret.json
+client_secret.json
 venv
 env
 db.sqlite3
