@@ -75,7 +75,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    pip install -r requirements.txt
    ```
-6. Run server and open in [127.0.0.1:8080](http://127.0.0.1:8000/)
+6. save client_secret.json in secret_folder
+ 
+7. Run server and open in [127.0.0.1:8080/rest/v1/calendar/init/](http://127.0.0.1:8000/rest/v1/calendar/init/)
    ```sh
    python manage.py runserver
    ```
